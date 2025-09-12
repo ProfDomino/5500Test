@@ -7,9 +7,9 @@ oh hey a change - Molly
 
 Silas Bates
 Silas Bates
-=======
+
 August Halm-Perazone
-=======
+
 
 oh another change -Lulu
 
@@ -25,7 +25,10 @@ Cheers! Here's to 3pm espresso. - Christine
 Hello, Git - Jie
 another change - Ale
 another change - Leo
+another change - Cam
 
 my change - Aidan
+
 and another change - mason
+
 
