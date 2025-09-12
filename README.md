@@ -5,11 +5,15 @@ Ki
 
 oh hey a change - Molly
 
+
+Hello, Git - Jiajun
+
 Silas Bates
 Silas Bates
-=======
+
+
 August Halm-Perazone
-=======
+
 
 oh another change -Lulu
 
@@ -27,5 +31,7 @@ another change - Ale
 another change - Leo
 
 my change - Aidan
+
 and another change - mason
+
 
